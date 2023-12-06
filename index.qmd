@@ -1,0 +1,11 @@
+---
+title: "Daniel's 601 Github"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+I watched The Anatony of a Fall
+```
