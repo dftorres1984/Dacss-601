@@ -12,4 +12,6 @@ The last movie I saw was The Anatony of a Fallh
 Creating a new R project and a new quatro file!  
   
 I had pizza for lunch today. 
+
+Challenge Eight is fun and will be used. 
 ```
