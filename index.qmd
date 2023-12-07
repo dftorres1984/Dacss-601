@@ -7,5 +7,7 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-The last movie I saw was The Anatony of a Fall
+The last movie I saw was The Anatony of a Fallh
+
+Creating a new R project and a new quatro file. 
 ```
