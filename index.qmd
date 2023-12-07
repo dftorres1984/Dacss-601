@@ -13,5 +13,5 @@ Creating a new R project and a new quatro file!
   
 I had pizza for lunch today. 
 
-Challenge Eight is fun and will be used. 
+Challenge Eight is fun and will be used in the future. 
 ```
